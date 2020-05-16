@@ -1,0 +1,48 @@
+
+body{
+  background-image: url("http://www.zingerbugimages.com/backgrounds/blue_watermark_mini_dots.jpg");
+  padding: 2% 3%;
+  font-family: "Montserrat";
+  color: #142170;
+}
+
+h1{
+  font-weight: 700;
+  line-height: 2;
+}
+h3{
+  margin: 0;
+  font-family: "Montserrat";
+  line-height: 1.5;
+}
+
+hr {background-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 2px;
+    border-color: #d4f3ef;
+    width: 90%;
+}
+
+.navbar-brand{
+  margin-right: 4%;
+  width: fit-content;
+  color: red;
+}
+
+.TopLeftlogo{
+  width: 35%
+}
+
+.admin-details{
+  width: fit-content;
+  padding-top: 0;
+}
+
+.login-button{
+  margin: 3% 4% 0;
+}
+
+.col-lg-3{
+  padding-right: 10%;
+}
